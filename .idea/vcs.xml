@@ -2,6 +2,11 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/exemplos-css" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/exemplos-html" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/exemplos-js" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/exercicios-CSS" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/exercicios-html" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/exerciciosCSS" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/fonts" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/js" vcs="Git" />
